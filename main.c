@@ -6,7 +6,9 @@
 int main(int argc, char *argv[]) {
 	
 	printf("HOla Mundo");
-	getch();
+	printf("Control de Versiones");
+	
+	system("PAUSE");
 	
 	return 0;
 }
